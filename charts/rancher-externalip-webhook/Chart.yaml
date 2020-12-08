@@ -19,4 +19,4 @@ maintainers:
 name: rancher-externalip-webhook
 sources:
 - https://github.com/rancher/externalip-webhook
-version: 0.1.100
+version: 0.1.200-rc1
