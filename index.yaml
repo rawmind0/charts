@@ -749,9 +749,9 @@ entries:
   - annotations:
       catalog.cattle.io/certified: rancher
       catalog.cattle.io/display-name: Externalip webhook
-      catalog.cattle.io/hidden: "true"
       catalog.cattle.io/namespace: cattle-externalip-system
       catalog.cattle.io/release-name: rancher-externalip-webhook
+      catalog.cattle.io/ui-component: rancher-externalip-webhook
     apiVersion: v1
     appVersion: v0.1.1
     created: "2020-12-08T02:12:59.751279501Z"
